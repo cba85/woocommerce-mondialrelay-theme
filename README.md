@@ -1,6 +1,6 @@
 # WooCommerce Mondial Relay theme
 
-A child theme for Storefront designed to be used as the theme for the WooCommerce Mondial Relay demo website.
+A child theme for Storefront designed to be used as the theme for the [WooCommerce Mondial Relay demo website](https://demo.mondialrelay-woocommerce.com) ([Github repository](https://github.com/cba85/woocommerce-mondialrelay-demo)).
 
 ## Bedrock
 
