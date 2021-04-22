@@ -1,0 +1,21 @@
+{
+  "name": "cba85/woocommerce-mondialrelay-theme",
+  "description": "A child theme for Storefront designed to be used as the theme for the WooCommerce Mondial Relay demo website.",
+  "type": "wordpress-theme",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cba85",
+      "email": "clement@clementbarbaza.com"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "theme",
+    "mondial-relay"
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
